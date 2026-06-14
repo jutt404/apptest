@@ -1,0 +1,8 @@
+[ ] Upload all files to GitHub root, not only app folder.
+[ ] Confirm codemagic.yaml is visible in GitHub root.
+[ ] Confirm MainActivity.java exists inside app/src/main/java/com/wzdev/saasserver/.
+[ ] Confirm AppConfig.java exists inside app/src/main/java/com/wzdev/saasserver/.
+[ ] Change SUPPORT_URL in AppConfig.java to your real WhatsApp number.
+[ ] Keep SHOW_ADMIN_SHORTCUT=false for customer app.
+[ ] Build debug APK on Codemagic first.
+[ ] After testing, build signed release APK.

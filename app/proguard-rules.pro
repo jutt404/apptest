@@ -1,0 +1,2 @@
+-keep class com.wzdev.saasserver.** { *; }
+-dontwarn org.chromium.**
